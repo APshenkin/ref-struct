@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "github:APshenkin/ref#9ca8873"
+    "ref": "github:APshenkin/ref#b79cd88"
   },
   "devDependencies": {
     "bindings": "~1.5.0",

@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "ref": "github:APshenkin/ref#9ca8873"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "lxe/ref-array#node-12"
+    "ref-array": "github:APshenkin/ref-array#249413b"
   }
 }

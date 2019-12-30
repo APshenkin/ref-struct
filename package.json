@@ -28,6 +28,6 @@
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "github:APshenkin/ref-array#249413b"
+    "ref-array": "github:APshenkin/ref-array#6a270a3"
   }
 }
